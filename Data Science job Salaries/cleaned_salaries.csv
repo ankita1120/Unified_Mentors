@@ -1,0 +1,566 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,company_location,company_size,job_type
+2020,Mid,FT,Data Scientist,70000,EUR,79833,DE,DE,Large,onsite
+2020,Senior,FT,Machine Learning Scientist,260000,USD,260000,JP,JP,Small,onsite
+2020,Senior,FT,Big Data Engineer,85000,GBP,109024,GB,GB,Medium,hybrid
+2020,Mid,FT,Product Data Analyst,20000,USD,20000,HN,HN,Small,onsite
+2020,Senior,FT,Machine Learning Engineer,150000,USD,150000,US,US,Large,hybrid
+2020,Entry,FT,Data Analyst,72000,USD,72000,US,US,Large,remote
+2020,Senior,FT,Lead Data Scientist,190000,USD,190000,US,US,Small,remote
+2020,Mid,FT,Data Scientist,11000000,HUF,35735,HU,HU,Large,hybrid
+2020,Mid,FT,Business Data Analyst,135000,USD,135000,US,US,Large,remote
+2020,Senior,FT,Lead Data Engineer,125000,USD,125000,NZ,NZ,Small,hybrid
+2020,Entry,FT,Data Scientist,45000,EUR,51321,FR,FR,Small,onsite
+2020,Mid,FT,Data Scientist,3000000,INR,40481,IN,IN,Large,onsite
+2020,Entry,FT,Data Scientist,35000,EUR,39916,FR,FR,Medium,onsite
+2020,Mid,FT,Lead Data Analyst,87000,USD,87000,US,US,Large,remote
+2020,Mid,FT,Data Analyst,85000,USD,85000,US,US,Large,remote
+2020,Mid,FT,Data Analyst,8000,USD,8000,PK,PK,Large,hybrid
+2020,Entry,FT,Data Engineer,4450000,JPY,41689,JP,JP,Small,remote
+2020,Senior,FT,Big Data Engineer,100000,EUR,114047,PL,GB,Small,remote
+2020,Entry,FT,Data Science Consultant,423000,INR,5707,IN,IN,Medium,hybrid
+2020,Mid,FT,Lead Data Engineer,56000,USD,56000,PT,US,Medium,remote
+2020,Mid,FT,Machine Learning Engineer,299000,CNY,43331,CN,CN,Medium,onsite
+2020,Mid,FT,Product Data Analyst,450000,INR,6072,IN,IN,Large,remote
+2020,Senior,FT,Data Engineer,42000,EUR,47899,GR,GR,Large,hybrid
+2020,Mid,FT,BI Data Analyst,98000,USD,98000,US,US,Medium,onsite
+2020,Mid,FT,Lead Data Scientist,115000,USD,115000,AE,AE,Large,onsite
+2020,Executive,FT,Director of Data Science,325000,USD,325000,US,US,Large,remote
+2020,Entry,FT,Research Scientist,42000,USD,42000,NL,NL,Large,hybrid
+2020,Senior,FT,Data Engineer,720000,MXN,33511,MX,MX,Small,onsite
+2020,Entry,CT,Business Data Analyst,100000,USD,100000,US,US,Large,remote
+2020,Senior,FT,Machine Learning Manager,157000,CAD,117104,CA,CA,Large,hybrid
+2020,Mid,FT,Data Engineering Manager,51999,EUR,59303,DE,DE,Small,remote
+2020,Entry,FT,Big Data Engineer,70000,USD,70000,US,US,Large,remote
+2020,Senior,FT,Data Scientist,60000,EUR,68428,GR,US,Large,remote
+2020,Mid,FT,Research Scientist,450000,USD,450000,US,US,Medium,onsite
+2020,Mid,FT,Data Analyst,41000,EUR,46759,FR,FR,Large,hybrid
+2020,Mid,FT,Data Engineer,65000,EUR,74130,AT,AT,Large,hybrid
+2020,Mid,FT,Data Science Consultant,103000,USD,103000,US,US,Large,remote
+2020,Entry,FT,Machine Learning Engineer,250000,USD,250000,US,US,Large,hybrid
+2020,Entry,FT,Data Analyst,10000,USD,10000,NG,NG,Small,remote
+2020,Entry,FT,Machine Learning Engineer,138000,USD,138000,US,US,Small,remote
+2020,Mid,FT,Data Scientist,45760,USD,45760,PH,US,Small,remote
+2020,Executive,FT,Data Engineering Manager,70000,EUR,79833,ES,ES,Large,hybrid
+2020,Mid,FT,Machine Learning Infrastructure Engineer,44000,EUR,50180,PT,PT,Medium,onsite
+2020,Mid,FT,Data Engineer,106000,USD,106000,US,US,Large,remote
+2020,Mid,FT,Data Engineer,88000,GBP,112872,GB,GB,Large,hybrid
+2020,Entry,PT,ML Engineer,14000,EUR,15966,DE,DE,Small,remote
+2020,Mid,FT,Data Scientist,60000,GBP,76958,GB,GB,Small,remote
+2020,Senior,FT,Data Engineer,188000,USD,188000,US,US,Large,remote
+2020,Mid,FT,Data Scientist,105000,USD,105000,US,US,Large,remote
+2020,Mid,FT,Data Engineer,61500,EUR,70139,FR,FR,Large,hybrid
+2020,Entry,FT,Data Analyst,450000,INR,6072,IN,IN,Small,onsite
+2020,Entry,FT,Data Analyst,91000,USD,91000,US,US,Large,remote
+2020,Entry,FT,AI Scientist,300000,DKK,45896,DK,DK,Small,hybrid
+2020,Entry,FT,Data Engineer,48000,EUR,54742,PK,DE,Large,remote
+2020,Senior,FL,Computer Vision Engineer,60000,USD,60000,RU,US,Small,remote
+2020,Senior,FT,Principal Data Scientist,130000,EUR,148261,DE,DE,Medium,remote
+2020,Mid,FT,Data Scientist,34000,EUR,38776,ES,ES,Medium,remote
+2020,Mid,FT,Data Scientist,118000,USD,118000,US,US,Medium,remote
+2020,Senior,FT,Data Scientist,120000,USD,120000,US,US,Large,hybrid
+2020,Mid,FT,Data Scientist,138350,USD,138350,US,US,Medium,remote
+2020,Mid,FT,Data Engineer,110000,USD,110000,US,US,Large,remote
+2020,Mid,FT,Data Engineer,130800,USD,130800,ES,US,Medium,remote
+2020,Entry,PT,Data Scientist,19000,EUR,21669,IT,IT,Small,hybrid
+2020,Senior,FT,Data Scientist,412000,USD,412000,US,US,Large,remote
+2020,Senior,FT,Machine Learning Engineer,40000,EUR,45618,HR,HR,Small,remote
+2020,Entry,FT,Data Scientist,55000,EUR,62726,DE,DE,Small,hybrid
+2020,Entry,FT,Data Scientist,43200,EUR,49268,DE,DE,Small,onsite
+2020,Senior,FT,Data Science Manager,190200,USD,190200,US,US,Medium,remote
+2020,Entry,FT,Data Scientist,105000,USD,105000,US,US,Small,remote
+2020,Senior,FT,Data Scientist,80000,EUR,91237,AT,AT,Small,onsite
+2020,Mid,FT,Data Scientist,55000,EUR,62726,FR,LU,Small,hybrid
+2020,Mid,FT,Data Scientist,37000,EUR,42197,FR,FR,Small,hybrid
+2021,Entry,FT,Research Scientist,60000,GBP,82528,GB,GB,Large,hybrid
+2021,Executive,FT,BI Data Analyst,150000,USD,150000,IN,US,Large,remote
+2021,Executive,FT,Head of Data,235000,USD,235000,US,US,Large,remote
+2021,Senior,FT,Data Scientist,45000,EUR,53192,FR,FR,Large,hybrid
+2021,Mid,FT,BI Data Analyst,100000,USD,100000,US,US,Medium,remote
+2021,Mid,PT,3D Computer Vision Researcher,400000,INR,5409,IN,IN,Medium,hybrid
+2021,Mid,CT,ML Engineer,270000,USD,270000,US,US,Large,remote
+2021,Entry,FT,Data Analyst,80000,USD,80000,US,US,Medium,remote
+2021,Senior,FT,Data Analytics Engineer,67000,EUR,79197,DE,DE,Large,remote
+2021,Mid,FT,Data Engineer,140000,USD,140000,US,US,Large,remote
+2021,Mid,FT,Applied Data Scientist,68000,CAD,54238,GB,CA,Large,hybrid
+2021,Mid,FT,Machine Learning Engineer,40000,EUR,47282,ES,ES,Small,remote
+2021,Executive,FT,Director of Data Science,130000,EUR,153667,IT,PL,Large,remote
+2021,Mid,FT,Data Engineer,110000,PLN,28476,PL,PL,Large,remote
+2021,Entry,FT,Data Analyst,50000,EUR,59102,FR,FR,Medium,hybrid
+2021,Mid,FT,Data Analytics Engineer,110000,USD,110000,US,US,Large,remote
+2021,Senior,FT,Lead Data Analyst,170000,USD,170000,US,US,Large,remote
+2021,Senior,FT,Data Analyst,80000,USD,80000,BG,US,Small,remote
+2021,Senior,FT,Marketing Data Analyst,75000,EUR,88654,GR,DK,Large,remote
+2021,Entry,FT,Data Science Consultant,65000,EUR,76833,DE,DE,Small,remote
+2021,Mid,FT,Lead Data Analyst,1450000,INR,19609,IN,IN,Large,remote
+2021,Senior,FT,Lead Data Engineer,276000,USD,276000,US,US,Large,onsite
+2021,Entry,FT,Data Scientist,2200000,INR,29751,IN,IN,Large,hybrid
+2021,Mid,FT,Cloud Data Engineer,120000,SGD,89294,SG,SG,Large,hybrid
+2021,Entry,PT,AI Scientist,12000,USD,12000,BR,US,Small,remote
+2021,Mid,FT,Financial Data Analyst,450000,USD,450000,US,US,Large,remote
+2021,Entry,FT,Computer Vision Software Engineer,70000,USD,70000,US,US,Medium,remote
+2021,Mid,FT,Computer Vision Software Engineer,81000,EUR,95746,DE,US,Small,remote
+2021,Mid,FT,Data Analyst,75000,USD,75000,US,US,Large,onsite
+2021,Senior,FT,Data Engineer,150000,USD,150000,US,US,Large,remote
+2021,Mid,FT,BI Data Analyst,11000000,HUF,36259,HU,US,Large,hybrid
+2021,Mid,FT,Data Analyst,62000,USD,62000,US,US,Large,onsite
+2021,Mid,FT,Data Scientist,73000,USD,73000,US,US,Large,onsite
+2021,Mid,FT,Data Analyst,37456,GBP,51519,GB,GB,Large,hybrid
+2021,Mid,FT,Research Scientist,235000,CAD,187442,CA,CA,Large,remote
+2021,Senior,FT,Data Engineer,115000,USD,115000,US,US,Small,remote
+2021,Senior,FT,Data Engineer,150000,USD,150000,US,US,Medium,remote
+2021,Entry,FT,Data Engineer,2250000,INR,30428,IN,IN,Large,remote
+2021,Senior,FT,Machine Learning Engineer,80000,EUR,94564,DE,DE,Large,hybrid
+2021,Senior,FT,Director of Data Engineering,82500,GBP,113476,GB,GB,Medium,remote
+2021,Senior,FT,Lead Data Engineer,75000,GBP,103160,GB,GB,Small,remote
+2021,Entry,PT,AI Scientist,12000,USD,12000,PK,US,Medium,remote
+2021,Mid,FT,Data Engineer,38400,EUR,45391,NL,NL,Large,remote
+2021,Entry,FT,Machine Learning Scientist,225000,USD,225000,US,US,Large,remote
+2021,Mid,FT,Data Scientist,50000,USD,50000,NG,NG,Large,remote
+2021,Mid,FT,Data Science Engineer,34000,EUR,40189,GR,GR,Medium,remote
+2021,Entry,FT,Data Analyst,90000,USD,90000,US,US,Small,remote
+2021,Mid,FT,Data Engineer,200000,USD,200000,US,US,Large,remote
+2021,Mid,FT,Big Data Engineer,60000,USD,60000,ES,RO,Medium,hybrid
+2021,Senior,FT,Principal Data Engineer,200000,USD,200000,US,US,Medium,remote
+2021,Entry,FT,Data Analyst,50000,USD,50000,US,US,Medium,remote
+2021,Entry,FT,Applied Data Scientist,80000,GBP,110037,GB,GB,Large,onsite
+2021,Entry,PT,Data Analyst,8760,EUR,10354,ES,ES,Medium,hybrid
+2021,Mid,FT,Principal Data Scientist,151000,USD,151000,US,US,Large,remote
+2021,Senior,FT,Machine Learning Scientist,120000,USD,120000,US,US,Small,hybrid
+2021,Mid,FT,Data Scientist,700000,INR,9466,IN,IN,Small,onsite
+2021,Entry,FT,Machine Learning Engineer,20000,USD,20000,IN,IN,Small,remote
+2021,Senior,FT,Lead Data Scientist,3000000,INR,40570,IN,IN,Large,hybrid
+2021,Entry,FT,Machine Learning Developer,100000,USD,100000,IQ,IQ,Small,hybrid
+2021,Entry,FT,Data Scientist,42000,EUR,49646,FR,FR,Medium,hybrid
+2021,Mid,FT,Applied Machine Learning Scientist,38400,USD,38400,VN,US,Medium,remote
+2021,Senior,FT,Computer Vision Engineer,24000,USD,24000,BR,BR,Medium,remote
+2021,Entry,FT,Data Scientist,100000,USD,100000,US,US,Small,onsite
+2021,Mid,FT,Data Analyst,90000,USD,90000,US,US,Medium,remote
+2021,Mid,FT,ML Engineer,7000000,JPY,63711,JP,JP,Small,hybrid
+2021,Mid,FT,ML Engineer,8500000,JPY,77364,JP,JP,Small,hybrid
+2021,Senior,FT,Principal Data Scientist,220000,USD,220000,US,US,Large,onsite
+2021,Entry,FT,Data Scientist,80000,USD,80000,US,US,Medium,remote
+2021,Mid,FT,Data Analyst,135000,USD,135000,US,US,Large,remote
+2021,Senior,FT,Data Science Manager,240000,USD,240000,US,US,Large,onsite
+2021,Senior,FT,Data Engineering Manager,150000,USD,150000,US,US,Large,onsite
+2021,Mid,FT,Data Scientist,82500,USD,82500,US,US,Small,remote
+2021,Mid,FT,Data Engineer,100000,USD,100000,US,US,Large,remote
+2021,Senior,FT,Machine Learning Engineer,70000,EUR,82744,BE,BE,Medium,hybrid
+2021,Mid,FT,Research Scientist,53000,EUR,62649,FR,FR,Medium,hybrid
+2021,Mid,FT,Data Engineer,90000,USD,90000,US,US,Large,remote
+2021,Senior,FT,Data Engineering Manager,153000,USD,153000,US,US,Large,remote
+2021,Senior,FT,Cloud Data Engineer,160000,USD,160000,BR,US,Small,remote
+2021,Senior,FT,Director of Data Science,168000,USD,168000,JP,JP,Small,onsite
+2021,Mid,FT,Data Scientist,150000,USD,150000,US,US,Medium,remote
+2021,Mid,FT,Data Scientist,95000,CAD,75774,CA,CA,Large,remote
+2021,Entry,FT,Data Scientist,13400,USD,13400,UA,UA,Large,remote
+2021,Senior,FT,Data Science Manager,144000,USD,144000,US,US,Large,remote
+2021,Senior,FT,Data Science Engineer,159500,CAD,127221,CA,CA,Large,hybrid
+2021,Mid,FT,Data Scientist,160000,SGD,119059,SG,IL,Medium,remote
+2021,Mid,FT,Applied Machine Learning Scientist,423000,USD,423000,US,US,Large,hybrid
+2021,Senior,FT,Data Analytics Manager,120000,USD,120000,US,US,Medium,remote
+2021,Entry,FT,Machine Learning Engineer,125000,USD,125000,US,US,Small,remote
+2021,Executive,FT,Head of Data,230000,USD,230000,RU,RU,Large,hybrid
+2021,Executive,FT,Head of Data Science,85000,USD,85000,RU,RU,Medium,onsite
+2021,Mid,FT,Data Engineer,24000,EUR,28369,MT,MT,Large,hybrid
+2021,Entry,FT,Data Science Consultant,54000,EUR,63831,DE,DE,Large,hybrid
+2021,Executive,FT,Director of Data Science,110000,EUR,130026,DE,DE,Medium,hybrid
+2021,Senior,FT,Data Specialist,165000,USD,165000,US,US,Large,remote
+2021,Entry,FT,Data Engineer,80000,USD,80000,US,US,Large,remote
+2021,Executive,FT,Director of Data Science,250000,USD,250000,US,US,Large,onsite
+2021,Entry,FT,BI Data Analyst,55000,USD,55000,US,US,Small,hybrid
+2021,Mid,FT,Data Architect,150000,USD,150000,US,US,Large,remote
+2021,Mid,FT,Data Architect,170000,USD,170000,US,US,Large,remote
+2021,Mid,FT,Data Engineer,60000,GBP,82528,GB,GB,Large,remote
+2021,Entry,FT,Data Analyst,60000,USD,60000,US,US,Small,remote
+2021,Senior,FT,Principal Data Scientist,235000,USD,235000,US,US,Large,remote
+2021,Senior,FT,Research Scientist,51400,EUR,60757,PT,PT,Large,hybrid
+2021,Senior,FT,Data Engineering Manager,174000,USD,174000,US,US,Large,remote
+2021,Mid,FT,Data Scientist,58000,MXN,2859,MX,MX,Small,onsite
+2021,Mid,FT,Data Scientist,30400000,CLP,40038,CL,CL,Large,remote
+2021,Entry,FT,Machine Learning Engineer,81000,USD,81000,US,US,Small,hybrid
+2021,Mid,FT,Data Scientist,420000,INR,5679,IN,US,Small,remote
+2021,Mid,FT,Big Data Engineer,1672000,INR,22611,IN,IN,Large,onsite
+2021,Mid,FT,Data Scientist,76760,EUR,90734,DE,DE,Large,hybrid
+2021,Mid,FT,Data Engineer,22000,EUR,26005,RO,US,Large,onsite
+2021,Senior,FT,Finance Data Analyst,45000,GBP,61896,GB,GB,Large,hybrid
+2021,Mid,FL,Machine Learning Scientist,12000,USD,12000,PK,PK,Medium,hybrid
+2021,Mid,FT,Data Engineer,4000,USD,4000,IR,IR,Medium,remote
+2021,Senior,FT,Data Analytics Engineer,50000,USD,50000,VN,GB,Medium,remote
+2021,Executive,FT,Data Science Consultant,59000,EUR,69741,FR,ES,Small,remote
+2021,Senior,FT,Data Engineer,65000,EUR,76833,RO,GB,Small,hybrid
+2021,Mid,FT,Machine Learning Engineer,74000,USD,74000,JP,JP,Small,hybrid
+2021,Senior,FT,Data Science Manager,152000,USD,152000,US,FR,Large,remote
+2021,Entry,FT,Machine Learning Engineer,21844,USD,21844,CO,CO,Medium,hybrid
+2021,Mid,FT,Big Data Engineer,18000,USD,18000,MD,MD,Small,onsite
+2021,Senior,FT,Data Science Manager,174000,USD,174000,US,US,Large,remote
+2021,Senior,FT,Research Scientist,120500,CAD,96113,CA,CA,Large,hybrid
+2021,Mid,FT,Data Scientist,147000,USD,147000,US,US,Large,hybrid
+2021,Entry,FT,BI Data Analyst,9272,USD,9272,KE,KE,Small,remote
+2021,Senior,FT,Machine Learning Engineer,1799997,INR,24342,IN,IN,Large,remote
+2021,Senior,FT,Data Science Manager,4000000,INR,54094,IN,US,Large,hybrid
+2021,Entry,FT,Data Science Consultant,90000,USD,90000,US,US,Small,remote
+2021,Mid,FT,Data Scientist,52000,EUR,61467,DE,AT,Medium,hybrid
+2021,Senior,FT,Machine Learning Infrastructure Engineer,195000,USD,195000,US,US,Medium,remote
+2021,Mid,FT,Data Scientist,32000,EUR,37825,ES,ES,Large,remote
+2021,Senior,FT,Research Scientist,50000,USD,50000,FR,US,Small,remote
+2021,Mid,FT,Data Scientist,160000,USD,160000,US,US,Large,remote
+2021,Mid,FT,Data Scientist,69600,BRL,12901,BR,BR,Small,onsite
+2021,Senior,FT,Machine Learning Engineer,200000,USD,200000,US,US,Large,remote
+2021,Senior,FT,Data Engineer,165000,USD,165000,US,US,Medium,onsite
+2021,Mid,FL,Data Engineer,20000,USD,20000,IT,US,Large,onsite
+2021,Senior,FT,Data Analytics Manager,120000,USD,120000,US,US,Large,onsite
+2021,Mid,FT,Machine Learning Engineer,21000,EUR,24823,SI,SI,Large,hybrid
+2021,Mid,FT,Research Scientist,48000,EUR,56738,FR,FR,Small,hybrid
+2021,Mid,FT,Data Engineer,48000,GBP,66022,HK,GB,Small,hybrid
+2021,Entry,FT,Big Data Engineer,435000,INR,5882,IN,CH,Large,onsite
+2021,Entry,FT,Machine Learning Engineer,21000,EUR,24823,DE,DE,Medium,hybrid
+2021,Senior,FT,Principal Data Engineer,185000,USD,185000,US,US,Large,remote
+2021,Entry,PT,Computer Vision Engineer,180000,DKK,28609,DK,DK,Small,hybrid
+2021,Mid,FT,Machine Learning Engineer,75000,EUR,88654,BE,BE,Medium,remote
+2021,Senior,FT,Data Analytics Manager,140000,USD,140000,US,US,Large,remote
+2021,Mid,FT,Machine Learning Engineer,180000,PLN,46597,PL,PL,Large,remote
+2021,Mid,FT,Data Scientist,85000,GBP,116914,GB,GB,Large,hybrid
+2021,Mid,FT,Data Scientist,2500000,INR,33808,IN,IN,Medium,onsite
+2021,Mid,FT,Data Scientist,40900,GBP,56256,GB,GB,Large,hybrid
+2021,Senior,FT,Machine Learning Scientist,225000,USD,225000,US,CA,Large,remote
+2021,Executive,CT,Principal Data Scientist,416000,USD,416000,US,US,Small,remote
+2021,Senior,FT,Data Scientist,110000,CAD,87738,CA,CA,Small,remote
+2021,Mid,FT,Data Scientist,75000,EUR,88654,DE,DE,Large,hybrid
+2021,Senior,FT,Data Scientist,135000,USD,135000,US,US,Large,onsite
+2021,Senior,FT,Data Analyst,90000,CAD,71786,CA,CA,Medium,remote
+2021,Entry,FT,Big Data Engineer,1200000,INR,16228,IN,IN,Large,remote
+2021,Senior,FT,ML Engineer,256000,USD,256000,US,US,Small,remote
+2021,Senior,FT,Director of Data Engineering,200000,USD,200000,US,US,Large,remote
+2021,Senior,FT,Data Analyst,200000,USD,200000,US,US,Large,remote
+2021,Mid,FT,Data Architect,180000,USD,180000,US,US,Large,remote
+2021,Mid,FT,Head of Data Science,110000,USD,110000,US,US,Small,onsite
+2021,Mid,FT,Research Scientist,80000,CAD,63810,CA,CA,Medium,remote
+2021,Mid,FT,Data Scientist,39600,EUR,46809,ES,ES,Medium,remote
+2021,Entry,FT,Data Scientist,4000,USD,4000,VN,VN,Medium,onsite
+2021,Entry,FT,Data Engineer,1600000,INR,21637,IN,IN,Medium,hybrid
+2021,Senior,FT,Data Scientist,130000,CAD,103691,CA,CA,Large,remote
+2021,Mid,FT,Data Analyst,80000,USD,80000,US,US,Large,remote
+2021,Mid,FT,Data Engineer,110000,USD,110000,US,US,Large,remote
+2021,Senior,FT,Data Scientist,165000,USD,165000,US,US,Large,remote
+2021,Entry,FT,AI Scientist,1335000,INR,18053,IN,AS,Small,remote
+2021,Mid,FT,Data Engineer,52500,GBP,72212,GB,GB,Large,hybrid
+2021,Entry,FT,Data Scientist,31000,EUR,36643,FR,FR,Large,hybrid
+2021,Mid,FT,Data Engineer,108000,TRY,12103,TR,TR,Medium,onsite
+2021,Senior,FT,Data Engineer,70000,GBP,96282,GB,GB,Large,hybrid
+2021,Senior,FT,Principal Data Analyst,170000,USD,170000,US,US,Medium,remote
+2021,Mid,FT,Data Scientist,115000,USD,115000,US,US,Large,hybrid
+2021,Entry,FT,Data Scientist,90000,USD,90000,US,US,Small,remote
+2021,Executive,FT,Principal Data Engineer,600000,USD,600000,US,US,Large,remote
+2021,Entry,FT,Data Scientist,2100000,INR,28399,IN,IN,Medium,remote
+2021,Mid,FT,Data Analyst,93000,USD,93000,US,US,Large,remote
+2021,Senior,FT,Big Data Architect,125000,CAD,99703,CA,CA,Medium,hybrid
+2021,Senior,FT,Principal Data Scientist,147000,EUR,173762,DE,DE,Medium,remote
+2021,Senior,FT,Machine Learning Engineer,185000,USD,185000,US,US,Large,hybrid
+2021,Executive,FT,Director of Data Science,120000,EUR,141846,DE,DE,Large,onsite
+2021,Mid,FT,Data Scientist,130000,USD,130000,US,US,Large,hybrid
+2021,Senior,FT,Data Analyst,54000,EUR,63831,DE,DE,Large,hybrid
+2021,Mid,FT,Data Scientist,1250000,INR,16904,IN,IN,Small,remote
+2021,Senior,FT,Machine Learning Engineer,4900000,INR,66265,IN,IN,Large,onsite
+2021,Mid,FT,Data Scientist,21600,EUR,25532,RS,DE,Small,remote
+2021,Senior,FT,Lead Data Engineer,160000,USD,160000,PR,US,Small,hybrid
+2021,Mid,FT,Data Engineer,93150,USD,93150,US,US,Medium,onsite
+2021,Mid,FT,Data Engineer,111775,USD,111775,US,US,Medium,onsite
+2021,Mid,FT,Data Engineer,250000,TRY,28016,TR,TR,Medium,remote
+2021,Entry,FT,Data Engineer,55000,EUR,65013,DE,DE,Medium,hybrid
+2021,Entry,FT,Data Engineer,72500,USD,72500,US,US,Large,remote
+2021,Senior,FT,Computer Vision Engineer,102000,BRL,18907,BR,BR,Medium,onsite
+2021,Entry,FT,Data Science Consultant,65000,EUR,76833,DE,DE,Large,onsite
+2021,Entry,FT,Machine Learning Engineer,85000,USD,85000,NL,DE,Small,remote
+2021,Senior,FT,Data Scientist,65720,EUR,77684,FR,FR,Medium,hybrid
+2021,Entry,FT,Data Scientist,100000,USD,100000,US,US,Medium,remote
+2021,Entry,FT,Data Scientist,58000,USD,58000,US,US,Large,hybrid
+2021,Senior,FT,AI Scientist,55000,USD,55000,ES,ES,Large,remote
+2021,Senior,FT,Data Scientist,180000,TRY,20171,TR,TR,Large,hybrid
+2021,Entry,FT,Business Data Analyst,50000,EUR,59102,LU,LU,Large,remote
+2021,Mid,FT,Data Engineer,112000,USD,112000,US,US,Large,remote
+2021,Entry,FT,Research Scientist,100000,USD,100000,JE,CN,Large,onsite
+2021,Mid,PT,Data Engineer,59000,EUR,69741,NL,NL,Large,remote
+2021,Senior,CT,Staff Data Scientist,105000,USD,105000,US,US,Medium,remote
+2021,Mid,FT,Research Scientist,69999,USD,69999,CZ,CZ,Large,hybrid
+2021,Senior,FT,Data Science Manager,7000000,INR,94665,IN,IN,Large,hybrid
+2021,Senior,FT,Head of Data,87000,EUR,102839,SI,SI,Large,remote
+2021,Mid,FT,Data Scientist,109000,USD,109000,US,US,Large,hybrid
+2021,Mid,FT,Machine Learning Engineer,43200,EUR,51064,IT,IT,Large,hybrid
+2022,Senior,FT,Data Engineer,135000,USD,135000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,155000,USD,155000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,120600,USD,120600,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,130000,USD,130000,US,US,Medium,onsite
+2022,Mid,FT,Data Scientist,90000,USD,90000,US,US,Medium,onsite
+2022,Mid,FT,Data Engineer,170000,USD,170000,US,US,Medium,remote
+2022,Mid,FT,Data Engineer,150000,USD,150000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,102100,USD,102100,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,84900,USD,84900,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,136620,USD,136620,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,99360,USD,99360,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,90000,GBP,117789,GB,GB,Medium,onsite
+2022,Senior,FT,Data Scientist,80000,GBP,104702,GB,GB,Medium,onsite
+2022,Senior,FT,Data Scientist,146000,USD,146000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,123000,USD,123000,US,US,Medium,remote
+2022,Entry,FT,Data Engineer,40000,GBP,52351,GB,GB,Medium,remote
+2022,Senior,FT,Data Analyst,99000,USD,99000,US,US,Medium,onsite
+2022,Senior,FT,Data Analyst,116000,USD,116000,US,US,Medium,onsite
+2022,Mid,FT,Data Analyst,106260,USD,106260,US,US,Medium,onsite
+2022,Mid,FT,Data Analyst,126500,USD,126500,US,US,Medium,onsite
+2022,Executive,FT,Data Engineer,242000,USD,242000,US,US,Medium,remote
+2022,Executive,FT,Data Engineer,200000,USD,200000,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,50000,GBP,65438,GB,GB,Medium,onsite
+2022,Mid,FT,Data Scientist,30000,GBP,39263,GB,GB,Medium,onsite
+2022,Mid,FT,Data Engineer,60000,GBP,78526,GB,GB,Medium,onsite
+2022,Mid,FT,Data Engineer,40000,GBP,52351,GB,GB,Medium,onsite
+2022,Senior,FT,Data Scientist,165220,USD,165220,US,US,Medium,remote
+2022,Entry,FT,Data Engineer,35000,GBP,45807,GB,GB,Medium,remote
+2022,Senior,FT,Data Scientist,120160,USD,120160,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,90320,USD,90320,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,181940,USD,181940,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,132320,USD,132320,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,220110,USD,220110,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,160080,USD,160080,US,US,Medium,onsite
+2022,Senior,FT,Data Scientist,180000,USD,180000,US,US,Large,onsite
+2022,Senior,FT,Data Scientist,120000,USD,120000,US,US,Large,onsite
+2022,Senior,FT,Data Analyst,124190,USD,124190,US,US,Medium,remote
+2022,Executive,FT,Data Analyst,130000,USD,130000,US,US,Medium,remote
+2022,Executive,FT,Data Analyst,110000,USD,110000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,170000,USD,170000,US,US,Medium,remote
+2022,Mid,FT,Data Analyst,115500,USD,115500,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,112900,USD,112900,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,165400,USD,165400,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,132320,USD,132320,US,US,Medium,remote
+2022,Mid,FT,Data Analyst,167000,USD,167000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,243900,USD,243900,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,136600,USD,136600,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,109280,USD,109280,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,128875,USD,128875,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,93700,USD,93700,US,US,Medium,remote
+2022,Executive,FT,Head of Data Science,224000,USD,224000,US,US,Medium,remote
+2022,Executive,FT,Head of Data Science,167875,USD,167875,US,US,Medium,remote
+2022,Executive,FT,Analytics Engineer,175000,USD,175000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,156600,USD,156600,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,108800,USD,108800,US,US,Medium,onsite
+2022,Senior,FT,Data Scientist,95550,USD,95550,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,113000,USD,113000,US,US,Large,onsite
+2022,Senior,FT,Data Analyst,135000,USD,135000,US,US,Medium,remote
+2022,Senior,FT,Data Science Manager,161342,USD,161342,US,US,Medium,remote
+2022,Senior,FT,Data Science Manager,137141,USD,137141,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,167000,USD,167000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,60000,GBP,78526,GB,GB,Medium,onsite
+2022,Senior,FT,Data Engineer,50000,GBP,65438,GB,GB,Medium,onsite
+2022,Senior,FT,Data Scientist,150000,USD,150000,US,US,Medium,onsite
+2022,Senior,FT,Data Scientist,211500,USD,211500,US,US,Medium,remote
+2022,Senior,FT,Data Architect,192400,USD,192400,CA,CA,Medium,remote
+2022,Senior,FT,Data Architect,90700,USD,90700,CA,CA,Medium,remote
+2022,Senior,FT,Data Analyst,130000,USD,130000,CA,CA,Medium,remote
+2022,Senior,FT,Data Analyst,61300,USD,61300,CA,CA,Medium,remote
+2022,Senior,FT,Data Engineer,160000,USD,160000,US,US,Large,onsite
+2022,Senior,FT,Data Scientist,138600,USD,138600,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,136000,USD,136000,US,US,Medium,onsite
+2022,Mid,FT,Data Analyst,58000,USD,58000,US,US,Small,onsite
+2022,Executive,FT,Analytics Engineer,135000,USD,135000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,170000,USD,170000,US,US,Medium,remote
+2022,Senior,FT,Machine Learning Engineer,189650,USD,189650,US,US,Medium,onsite
+2022,Senior,FT,Machine Learning Engineer,164996,USD,164996,US,US,Medium,onsite
+2022,Mid,FT,ETL Developer,50000,EUR,54957,GR,GR,Medium,onsite
+2022,Executive,FT,Lead Data Engineer,150000,CAD,118187,CA,CA,Small,remote
+2022,Senior,FT,Data Analyst,132000,USD,132000,US,US,Medium,onsite
+2022,Senior,FT,Data Architect,208775,USD,208775,US,US,Medium,remote
+2022,Senior,FT,Data Architect,147800,USD,147800,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,136994,USD,136994,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,101570,USD,101570,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,128875,USD,128875,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,93700,USD,93700,US,US,Medium,remote
+2022,Executive,FT,Head of Machine Learning,6000000,INR,79039,IN,IN,Large,hybrid
+2022,Entry,FT,Machine Learning Engineer,28500,GBP,37300,GB,GB,Large,remote
+2022,Senior,FT,Data Analyst,164000,USD,164000,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,155000,USD,155000,US,US,Medium,remote
+2022,Mid,FT,Machine Learning Engineer,95000,GBP,124333,GB,GB,Medium,onsite
+2022,Mid,FT,Machine Learning Engineer,75000,GBP,98158,GB,GB,Medium,onsite
+2022,Mid,FT,AI Scientist,120000,USD,120000,US,US,Medium,onsite
+2022,Senior,FT,Data Analytics Manager,145000,USD,145000,US,US,Medium,remote
+2022,Senior,FT,Data Analytics Manager,105400,USD,105400,US,US,Medium,remote
+2022,Mid,FT,Machine Learning Engineer,80000,EUR,87932,FR,DE,Medium,remote
+2022,Mid,FT,Data Engineer,90000,GBP,117789,GB,GB,Medium,onsite
+2022,Senior,FT,Data Scientist,215300,USD,215300,US,US,Large,remote
+2022,Senior,FT,Data Scientist,158200,USD,158200,US,US,Large,remote
+2022,Senior,FT,Data Engineer,209100,USD,209100,US,US,Large,remote
+2022,Senior,FT,Data Engineer,154600,USD,154600,US,US,Large,remote
+2022,Senior,FT,Data Analyst,115934,USD,115934,US,US,Medium,onsite
+2022,Senior,FT,Data Analyst,81666,USD,81666,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,175000,USD,175000,US,US,Medium,remote
+2022,Mid,FT,Data Engineer,75000,GBP,98158,GB,GB,Medium,onsite
+2022,Senior,FT,Data Engineer,183600,USD,183600,US,US,Large,remote
+2022,Mid,FT,Data Analyst,40000,GBP,52351,GB,GB,Medium,remote
+2022,Senior,FT,Data Scientist,180000,USD,180000,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,55000,GBP,71982,GB,GB,Medium,onsite
+2022,Mid,FT,Data Scientist,35000,GBP,45807,GB,GB,Medium,onsite
+2022,Mid,FT,Data Engineer,60000,EUR,65949,GR,GR,Medium,remote
+2022,Mid,FT,Data Engineer,45000,EUR,49461,GR,GR,Medium,remote
+2022,Mid,FT,Data Engineer,60000,GBP,78526,GB,GB,Medium,remote
+2022,Mid,FT,Data Engineer,45000,GBP,58894,GB,GB,Medium,remote
+2022,Senior,FT,Data Scientist,260000,USD,260000,US,US,Medium,remote
+2022,Senior,FT,Data Science Engineer,60000,USD,60000,AR,MX,Large,remote
+2022,Mid,FT,Data Engineer,63900,USD,63900,US,US,Medium,onsite
+2022,Mid,FT,Machine Learning Scientist,160000,USD,160000,US,US,Large,remote
+2022,Mid,FT,Machine Learning Scientist,112300,USD,112300,US,US,Large,remote
+2022,Mid,FT,Data Science Manager,241000,USD,241000,US,US,Medium,remote
+2022,Mid,FT,Data Science Manager,159000,USD,159000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,180000,USD,180000,US,US,Medium,onsite
+2022,Senior,FT,Data Scientist,80000,USD,80000,US,US,Medium,onsite
+2022,Mid,FT,Data Engineer,82900,USD,82900,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,100800,USD,100800,US,US,Large,remote
+2022,Mid,FT,Data Engineer,45000,EUR,49461,ES,ES,Medium,remote
+2022,Senior,FT,Data Scientist,140400,USD,140400,US,US,Large,onsite
+2022,Mid,FT,Data Analyst,30000,GBP,39263,GB,GB,Medium,remote
+2022,Mid,FT,Data Analyst,40000,EUR,43966,ES,ES,Medium,remote
+2022,Mid,FT,Data Analyst,30000,EUR,32974,ES,ES,Medium,remote
+2022,Mid,FT,Data Engineer,80000,EUR,87932,ES,ES,Medium,remote
+2022,Mid,FT,Data Engineer,70000,EUR,76940,ES,ES,Medium,remote
+2022,Mid,FT,Data Engineer,80000,GBP,104702,GB,GB,Medium,remote
+2022,Mid,FT,Data Engineer,70000,GBP,91614,GB,GB,Medium,remote
+2022,Mid,FT,Data Engineer,60000,EUR,65949,ES,ES,Medium,remote
+2022,Mid,FT,Data Engineer,80000,EUR,87932,GR,GR,Medium,remote
+2022,Mid,FT,Data Analyst,40000,EUR,43966,GR,GR,Medium,remote
+2022,Mid,FT,Data Analyst,30000,EUR,32974,GR,GR,Medium,remote
+2022,Mid,FT,Data Engineer,75000,GBP,98158,GB,GB,Medium,remote
+2022,Senior,FT,Data Scientist,215300,USD,215300,US,US,Large,onsite
+2022,Mid,FT,Data Engineer,70000,EUR,76940,GR,GR,Medium,remote
+2022,Senior,FT,Data Engineer,180000,USD,180000,US,US,Medium,remote
+2022,Entry,FT,ML Engineer,20000,EUR,21983,PT,PT,Large,remote
+2022,Senior,FT,Data Engineer,80000,USD,80000,US,US,Medium,remote
+2022,Mid,FT,Machine Learning Developer,100000,CAD,78791,CA,CA,Medium,remote
+2022,Executive,FT,Director of Data Science,250000,CAD,196979,CA,CA,Large,hybrid
+2022,Mid,FT,Machine Learning Engineer,120000,USD,120000,US,US,Small,remote
+2022,Entry,FT,Computer Vision Engineer,125000,USD,125000,US,US,Medium,onsite
+2022,Mid,FT,NLP Engineer,240000,CNY,37236,US,US,Large,hybrid
+2022,Senior,FT,Data Engineer,105000,USD,105000,US,US,Medium,remote
+2022,Senior,FT,Lead Machine Learning Engineer,80000,EUR,87932,DE,DE,Medium,onsite
+2022,Mid,FT,Business Data Analyst,1400000,INR,18442,IN,IN,Medium,remote
+2022,Mid,FT,Data Scientist,2400000,INR,31615,IN,IN,Large,remote
+2022,Mid,FT,Machine Learning Infrastructure Engineer,53000,EUR,58255,PT,PT,Large,hybrid
+2022,Entry,FT,Financial Data Analyst,100000,USD,100000,US,US,Large,hybrid
+2022,Mid,PT,Data Engineer,50000,EUR,54957,DE,DE,Large,hybrid
+2022,Entry,FT,Data Scientist,1400000,INR,18442,IN,IN,Medium,remote
+2022,Senior,FT,Principal Data Scientist,148000,EUR,162674,DE,DE,Medium,remote
+2022,Entry,FT,Data Engineer,120000,USD,120000,US,US,Medium,remote
+2022,Senior,FT,Research Scientist,144000,USD,144000,US,US,Large,hybrid
+2022,Senior,FT,Data Scientist,104890,USD,104890,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,100000,USD,100000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,140000,USD,140000,US,US,Medium,remote
+2022,Mid,FT,Data Analyst,135000,USD,135000,US,US,Medium,remote
+2022,Mid,FT,Data Analyst,50000,USD,50000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,220000,USD,220000,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,140000,GBP,183228,GB,GB,Medium,onsite
+2022,Mid,FT,Data Scientist,70000,GBP,91614,GB,GB,Medium,onsite
+2022,Senior,FT,Data Scientist,185100,USD,185100,US,US,Medium,remote
+2022,Senior,FT,Machine Learning Engineer,220000,USD,220000,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,200000,USD,200000,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,120000,USD,120000,US,US,Medium,remote
+2022,Senior,FT,Machine Learning Engineer,120000,USD,120000,AE,AE,Small,remote
+2022,Senior,FT,Machine Learning Engineer,65000,USD,65000,AE,AE,Small,remote
+2022,Executive,FT,Data Engineer,324000,USD,324000,US,US,Medium,remote
+2022,Executive,FT,Data Engineer,216000,USD,216000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,210000,USD,210000,US,US,Medium,remote
+2022,Senior,FT,Machine Learning Engineer,120000,USD,120000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,230000,USD,230000,US,US,Medium,remote
+2022,Entry,PT,Data Scientist,100000,USD,100000,DZ,DZ,Medium,hybrid
+2022,Mid,FL,Data Scientist,100000,USD,100000,CA,US,Medium,remote
+2022,Entry,CT,Applied Machine Learning Scientist,29000,EUR,31875,TN,CZ,Medium,remote
+2022,Senior,FT,Head of Data,200000,USD,200000,MY,US,Medium,remote
+2022,Mid,FT,Principal Data Analyst,75000,USD,75000,CA,CA,Small,remote
+2022,Mid,FT,Data Scientist,150000,PLN,35590,PL,PL,Large,remote
+2022,Senior,FT,Machine Learning Developer,100000,CAD,78791,CA,CA,Medium,remote
+2022,Senior,FT,Data Scientist,100000,USD,100000,BR,US,Medium,remote
+2022,Mid,FT,Machine Learning Scientist,153000,USD,153000,US,US,Medium,hybrid
+2022,Entry,FT,Data Engineer,52800,EUR,58035,PK,DE,Medium,remote
+2022,Senior,FT,Data Scientist,165000,USD,165000,US,US,Medium,remote
+2022,Senior,FT,Research Scientist,85000,EUR,93427,FR,FR,Large,hybrid
+2022,Entry,FT,Data Scientist,66500,CAD,52396,CA,CA,Large,remote
+2022,Senior,FT,Machine Learning Engineer,57000,EUR,62651,NL,NL,Large,remote
+2022,Mid,FT,Head of Data,30000,EUR,32974,EE,EE,Small,remote
+2022,Entry,FT,Data Scientist,40000,USD,40000,JP,MY,Large,remote
+2022,Mid,FT,Machine Learning Engineer,121000,AUD,87425,AU,AU,Large,remote
+2022,Senior,FT,Data Engineer,115000,USD,115000,US,US,Medium,remote
+2022,Entry,FT,Data Scientist,120000,AUD,86703,AU,AU,Medium,hybrid
+2022,Mid,FT,Applied Machine Learning Scientist,75000,USD,75000,BO,US,Large,remote
+2022,Mid,FT,Research Scientist,59000,EUR,64849,AT,AT,Large,onsite
+2022,Entry,FT,Research Scientist,120000,USD,120000,US,US,Large,remote
+2022,Mid,FT,Applied Data Scientist,157000,USD,157000,US,US,Large,remote
+2022,Entry,FT,Computer Vision Software Engineer,150000,USD,150000,AU,AU,Small,remote
+2022,Mid,FT,Business Data Analyst,90000,CAD,70912,CA,CA,Large,hybrid
+2022,Entry,FT,Data Engineer,65000,USD,65000,US,US,Small,remote
+2022,Senior,FT,Machine Learning Engineer,65000,EUR,71444,IE,IE,Small,remote
+2022,Entry,FT,Data Analytics Engineer,20000,USD,20000,PK,PK,Medium,onsite
+2022,Mid,FT,Data Scientist,48000,USD,48000,RU,US,Small,remote
+2022,Senior,FT,Data Science Manager,152500,USD,152500,US,US,Medium,remote
+2022,Mid,FT,Data Engineer,62000,EUR,68147,FR,FR,Medium,remote
+2022,Mid,FT,Data Scientist,115000,CHF,122346,CH,CH,Large,onsite
+2022,Senior,FT,Applied Data Scientist,380000,USD,380000,US,US,Large,remote
+2022,Mid,FT,Data Scientist,88000,CAD,69336,CA,CA,Medium,remote
+2022,Entry,FT,Computer Vision Engineer,10000,USD,10000,PT,LU,Medium,remote
+2022,Mid,FT,Data Analyst,20000,USD,20000,GR,GR,Small,remote
+2022,Senior,FT,Data Analytics Lead,405000,USD,405000,US,US,Large,remote
+2022,Mid,FT,Data Scientist,135000,USD,135000,US,US,Large,remote
+2022,Senior,FT,Applied Data Scientist,177000,USD,177000,US,US,Large,remote
+2022,Mid,FT,Data Scientist,78000,USD,78000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,100000,USD,100000,US,US,Medium,remote
+2022,Mid,FT,Data Analyst,85000,USD,85000,CA,CA,Medium,onsite
+2022,Mid,FT,Data Analyst,75000,USD,75000,CA,CA,Medium,onsite
+2022,Senior,FT,Machine Learning Engineer,214000,USD,214000,US,US,Medium,remote
+2022,Senior,FT,Machine Learning Engineer,192600,USD,192600,US,US,Medium,remote
+2022,Senior,FT,Data Architect,266400,USD,266400,US,US,Medium,remote
+2022,Senior,FT,Data Architect,213120,USD,213120,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,141300,USD,141300,US,US,Medium,onsite
+2022,Mid,FT,Data Scientist,102100,USD,102100,US,US,Medium,onsite
+2022,Senior,FT,Data Analyst,115934,USD,115934,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,81666,USD,81666,US,US,Medium,remote
+2022,Mid,FT,Data Engineer,206699,USD,206699,US,US,Medium,onsite
+2022,Mid,FT,Data Engineer,99100,USD,99100,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,130000,USD,130000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,110500,USD,110500,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,99050,USD,99050,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,160000,USD,160000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,205300,USD,205300,US,US,Large,onsite
+2022,Senior,FT,Data Scientist,176000,USD,176000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,144000,USD,144000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,200100,USD,200100,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,145000,USD,145000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,70500,USD,70500,US,US,Medium,onsite
+2022,Senior,FT,Data Scientist,205300,USD,205300,US,US,Medium,onsite
+2022,Senior,FT,Data Scientist,140400,USD,140400,US,US,Medium,onsite
+2022,Senior,FT,Analytics Engineer,205300,USD,205300,US,US,Medium,onsite
+2022,Senior,FT,Analytics Engineer,184700,USD,184700,US,US,Medium,onsite
+2022,Senior,FT,Data Engineer,175100,USD,175100,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,140250,USD,140250,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,116150,USD,116150,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,54000,USD,54000,US,US,Medium,onsite
+2022,Mid,FT,Data Analyst,50000,GBP,65438,GB,GB,Medium,onsite
+2022,Senior,FT,Data Analyst,80000,USD,80000,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,210000,USD,210000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,69000,USD,69000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,150075,USD,150075,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,25000,USD,25000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,126500,USD,126500,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,106260,USD,106260,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,220110,USD,220110,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,160080,USD,160080,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,105000,USD,105000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,110925,USD,110925,US,US,Medium,remote
+2022,Mid,FT,Data Analyst,35000,GBP,45807,GB,GB,Medium,onsite
+2022,Senior,FT,Data Analyst,60000,USD,60000,US,US,Medium,remote
+2022,Senior,FT,Data Architect,192564,USD,192564,US,US,Medium,remote
+2022,Senior,FT,Data Architect,144854,USD,144854,US,US,Medium,remote
+2022,Senior,FT,Data Scientist,150000,USD,150000,US,US,Medium,remote
+2022,Senior,FT,Data Analytics Manager,150260,USD,150260,US,US,Medium,remote
+2022,Senior,FT,Data Analytics Manager,109280,USD,109280,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,160000,USD,160000,US,US,Medium,remote
+2022,Mid,FT,Data Scientist,130000,USD,130000,US,US,Medium,remote
+2022,Entry,FT,Data Analyst,67000,USD,67000,CA,CA,Medium,onsite
+2022,Entry,FT,Data Analyst,52000,USD,52000,CA,CA,Medium,onsite
+2022,Senior,FT,Data Engineer,154000,USD,154000,US,US,Medium,remote
+2022,Senior,FT,Data Engineer,126000,USD,126000,US,US,Medium,remote
+2022,Senior,FT,Data Analyst,129000,USD,129000,US,US,Medium,onsite
+2022,Senior,FT,Data Analyst,150000,USD,150000,US,US,Medium,remote
+2022,Mid,FT,AI Scientist,200000,USD,200000,IN,US,Large,remote
